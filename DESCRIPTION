@@ -1,9 +1,9 @@
 Package: rhdf5utils
 Type: Package
 Title: Utilities for rhdf5
-Version: 0.99.1
+Version: 0.99.2
 Author: Benilton Carvalho
-Maintainer: Benilton Carvalho <Benilton.Carvalho@cancer.org.uk>
+Maintainer: Benilton Carvalho <beniltoncarvalho@gmail.com>
 Description: Utilities to simplify the use of rhdf5
 Depends: rhdf5 (>= 2.0.2)
 License: Creative Commons 2.0
