@@ -6,4 +6,5 @@ Author: Benilton Carvalho
 Maintainer: Benilton Carvalho <beniltoncarvalho@gmail.com>
 Description: Utilities to simplify the use of rhdf5
 Depends: rhdf5 (>= 2.0.2)
-License: Creative Commons 2.0
+License: LGPL-2
+
