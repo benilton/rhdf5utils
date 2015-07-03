@@ -1,6 +1,13 @@
+## support Travis CI
 language: r
 sudo: required
 
 bioc_required: true
 bioc_packages:
  - rhdf5
+
+## Support codecov.io
+r_github_packages:
+  - jimhester/covr
+after_success:
+  - Rscript -e 'library(covr);codecov()'
