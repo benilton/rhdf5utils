@@ -1,4 +1,4 @@
-rhdf5utils
+rhdf5utils ![travis status](https://travis-ci.org/benilton/rhdf5utils.svg?branch=master)
 ==========
 
 Utilities for rhdf5
